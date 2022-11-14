@@ -23,19 +23,32 @@ Other Potentially Helpful Resources:
 
 
 ### Recommended BU Courses
-
+FILL IN HERE
 
 ### Recommended Coursera Courses
-
+*
+*
+*
 
 ### Python
-
+Popular packages that we use:
+*
+*
+*
 
 ### FEniCS
+Instructions for using FEniCS on the SCC:
+
+Instructions for using FEniCS locally:
 
 
 ### GMSH
+Instructions for using GMSH on the SCC:
 
+Instructions for using GMSH locally:
 
 ### PyTorch
+Instructions for using PyTorch on the SCC:
+
+Instructions for using PyTorch locally:
 

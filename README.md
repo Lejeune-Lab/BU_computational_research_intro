@@ -22,6 +22,8 @@ Other Potentially Helpful Resources:
 
 ## Lejeune Lab Specific Information
 
+### First "Assignment"
+During a rotation with the Lejeune Lab, the first thing you will do is figure out how to run FEniCS (either install in on your local computer or run it on the SCC) and run a tutorial example of your choosing. Once you have the tutorial running smoothly and understand what each line of code in the tutorial is doing we will meet and discuss next steps. Typically, this should be done in about 1 week.
 
 ### Recommended BU Courses
 FILL IN HERE

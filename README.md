@@ -43,18 +43,27 @@ Popular packages that we use:
 
 ### FEniCS
 Instructions for using FEniCS on the SCC:
+
 FILL IN HERE
+
 Instructions for using FEniCS locally:
+
 FILL IN HERE
 
 ### GMSH
 Instructions for using GMSH on the SCC:
+
 FILL IN HERE
+
 Instructions for using GMSH locally:
+
 FILL IN HERE
 
 ### PyTorch
 Instructions for using PyTorch on the SCC:
+
 FILL IN HERE
+
 Instructions for using PyTorch locally:
+
 FILL IN HERE

@@ -25,30 +25,36 @@ Other Potentially Helpful Resources:
 ### Recommended BU Courses
 FILL IN HERE
 
-### Recommended Coursera Courses
-*
-*
-*
+### Recommended Online Courses and Resources
+* Finite Element Analysis: https://www.coursera.org/learn/finite-element-method
+* Continuum Physics: https://open.umich.edu/find/open-educational-resources/engineering/lectures-continuum-physics
+* Machine Learning: https://cs229.stanford.edu/
+* Deep Learning for Computer Vision: http://cs231n.stanford.edu/
+* FILL IN HERE
 
 ### Python
 Popular packages that we use:
-*
-*
-*
+* numpy
+* matplotlib
+* scipy
+* sklearn
+* skimage
+* FILL IN HERE
 
 ### FEniCS
 Instructions for using FEniCS on the SCC:
-
+FILL IN HERE
 Instructions for using FEniCS locally:
-
+FILL IN HERE
 
 ### GMSH
 Instructions for using GMSH on the SCC:
-
+FILL IN HERE
 Instructions for using GMSH locally:
+FILL IN HERE
 
 ### PyTorch
 Instructions for using PyTorch on the SCC:
-
+FILL IN HERE
 Instructions for using PyTorch locally:
-
+FILL IN HERE

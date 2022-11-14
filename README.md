@@ -17,7 +17,8 @@ Other Potentially Helpful Resources:
 * Linux command line cheat sheet: https://cheatography.com/davechild/cheat-sheets/linux-command-line/
 * Anaconda: https://www.anaconda.com/
 * Docker: https://www.docker.com/
-
+* GitHub: https://docs.github.com/en
+*VSCode: https://code.visualstudio.com/
 
 ## Lejeune Lab Specific Information
 

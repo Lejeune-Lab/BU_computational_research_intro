@@ -14,6 +14,7 @@ BU Shared Computing Cluster Access:
 * Alternatively you can ask your Advisor to add you as a temporary member to their Projects
 
 Other Potentially Helpful Resources:
+* BU SCC Online Resource: https://www.bu.edu/tech/support/research/system-usage/
 * Linux command line cheat sheet: https://cheatography.com/davechild/cheat-sheets/linux-command-line/
 * Anaconda: https://www.anaconda.com/
 * Docker: https://www.docker.com/
@@ -31,8 +32,10 @@ FILL IN HERE
 ### Recommended Online Courses and Resources
 * Finite Element Analysis: https://www.coursera.org/learn/finite-element-method
 * Continuum Physics: https://open.umich.edu/find/open-educational-resources/engineering/lectures-continuum-physics
+* Advanced Elasticity: https://imechanica.org/node/725
 * Machine Learning: https://cs229.stanford.edu/
 * Deep Learning for Computer Vision: http://cs231n.stanford.edu/
+* Pytorch Tutorials: https://pytorch.org/tutorials/
 * FILL IN HERE
 
 ### Python

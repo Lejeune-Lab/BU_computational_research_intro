@@ -18,7 +18,7 @@ Other Potentially Helpful Resources:
 * Anaconda: https://www.anaconda.com/
 * Docker: https://www.docker.com/
 * GitHub: https://docs.github.com/en
-*VSCode: https://code.visualstudio.com/
+* VSCode: https://code.visualstudio.com/
 
 ## Lejeune Lab Specific Information
 

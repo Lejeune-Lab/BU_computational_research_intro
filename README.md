@@ -27,10 +27,10 @@ Other Potentially Helpful Resources:
 During a rotation with the Lejeune Lab, the first thing you will do is figure out how to run FEniCS (either install in on your local computer or run it on the SCC) and run a tutorial example of your choosing. Once you have the tutorial running smoothly and understand what each line of code in the tutorial is doing we will meet and discuss next steps. Typically, this should be done in about 1 week.
 
 ### Recommended BU Courses
-* ENG ME 521: Continuum Mechanics 
-* ENG ME 538: Introduction to Finite Element Methods and Analysis
-* ENG ME 580: Theory of Elasticity
-* ENG EC 503: Introduction to Learning from Data (More advanced) or CAS CS 542: Machine Learning (General introduction)
+* `ENG ME 521`: Continuum Mechanics 
+* `ENG ME 538`: Introduction to Finite Element Methods and Analysis
+* `ENG ME 580`: Theory of Elasticity
+* `ENG EC 503`: Introduction to Learning from Data (More advanced) or CAS CS 542: Machine Learning (General introduction)
 
 ### Recommended Online Courses and Resources
 * Finite Element Analysis: https://www.coursera.org/learn/finite-element-method

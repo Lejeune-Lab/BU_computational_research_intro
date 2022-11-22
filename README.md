@@ -104,7 +104,7 @@ The easiest way to use GMSH locally is to set it up using [Anaconda](https://www
     
     You can find more information about creating environmets [here](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html).
 
-2. Activate the "gmsh-env" environment by either clicking on the green arrow next to the environment name in the graphical interface and select "Open Terminal". Alternatively, you can use the terminal and run the following command:
+2. Activate the "gmsh-env" environment by clicking on the green arrow next to the environment name in the graphical interface and select "Open Terminal". Alternatively, you can use the terminal and run the following command:
 
     ```bash 
     conda activate gmsh-env

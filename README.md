@@ -33,7 +33,8 @@ During a rotation with the Lejeune Lab, the first thing you will do is figure ou
 * `ENG ME 721`: Applied Mathematics in Mechanics
 * `ENG EC 503`: Introduction to Learning from Data (More advanced) or `CAS CS 542`: Machine Learning (General introduction)
 
-Recommended order 
+(**Recommended order**)
+
 First semester:`ENG ME 521`, `ENG ME 538`, `ENG ME 721`
 
 Second semester: `ENG ME 580`, `ENG EC 503` or `CAS CS 542`

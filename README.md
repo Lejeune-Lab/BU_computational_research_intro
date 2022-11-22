@@ -43,7 +43,8 @@ Second semester: `ENG ME 580`, `ENG EC 503` or `CAS CS 542`
 
 ### Recommended Online Courses and Resources
 * Finite Element Analysis: https://www.coursera.org/learn/finite-element-method
-* Continuum Physics: https://open.umich.edu/find/open-educational-resources/engineering/lectures-continuum-physics
+* Continuum Physics: https://open.umich.edu/find/open-educational-resources/engineering/lectures-continuum-physics 
+* Continuum (Solid) Mecanics: https://www.brown.edu/Departments/Engineering/Courses/En221/ and http://solidmechanics.org/
 * Advanced Elasticity: https://imechanica.org/node/725
 * Machine Learning: https://cs229.stanford.edu/ or [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction?utm_source=gg&utm_medium=sem&utm_campaign=07_Machine_Learning_Stanford_Search-US&utm_content=B2C&campaignid=685340575&adgroupid=32639001781&device=c&keyword=machine%20learning%20techniques&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=606802906474&hide_mobile_promo=&gclid=Cj0KCQiAg_KbBhDLARIsANx7wAxZRh6MDeb8VTJtdWNTyiwTonwTS4TRGD7yiviQRIKmJlVrSai6dwIaAjVfEALw_wcB#courses) or [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning?utm_source=gg&utm_medium=sem&utm_campaign=07_Machine_Learning_Stanford_Search-US&utm_content=B2C&campaignid=685340575&adgroupid=32639001781&device=c&keyword=machine%20learning%20techniques&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=606802906474&hide_mobile_promo=&gclid=Cj0KCQiAg_KbBhDLARIsANx7wAxZRh6MDeb8VTJtdWNTyiwTonwTS4TRGD7yiviQRIKmJlVrSai6dwIaAjVfEALw_wcB#courses)
 

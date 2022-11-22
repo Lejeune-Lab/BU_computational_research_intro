@@ -52,8 +52,10 @@ Popular packages that we use:
 
 ### FEniCS
 Instructions for using FEniCS on the SCC:
-1. Load FEniCS module using the command: ```bash module load fenics/2019.1.0 ```bash
-3. Run python script with prepended command `run_fenics.sh` (e.g. run_fenics.sh python3 my_fenics_script.py)
+1. Load FEniCS module using the command: ```bash 
+    module load fenics/2019.1.0 
+    ```bash
+2. Run python script with prepended command `run_fenics.sh` (e.g. run_fenics.sh python3 my_fenics_script.py)
 
 
 Instructions for using FEniCS locally:

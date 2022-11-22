@@ -78,7 +78,7 @@ FILL IN HERE
 ### GMSH
 Instructions for using GMSH on the SCC:
 
-1. Load Gmsh and all other necessary modules using the commands: 
+1. Load GMSH and all other necessary modules using the commands: 
     
     ```bash 
     module purge
@@ -94,8 +94,41 @@ Instructions for using GMSH on the SCC:
 
 Instructions for using GMSH locally:
 
-FILL IN HERE
+The easiest way to use GMSH locally is to install it using [Anaconda](https://www.anaconda.com/).
+1. Create a new enviroment for GMSH in anaconda either using the graphical interface (`Environments` --> `Create` on bottom left).
+    Alternatively, you can create and environment using the terminal by running the command: 
+    
+    ```bash
+    conda create --name gmsh-env python=3.9.13
+    ```
+    
+    You can find more information about creating environmets [here](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html).
 
+2. Activate the "gmsh-env" environment by either clicking on the green arrow next to the environment name in the graphical interface and select "Open Terminal". Alternatively, you can use the terminal and run the following command:
+
+    ```bash 
+    conda activate gmsh-env
+    ```
+3. Install GMSH in the terminal using the following command:
+
+    ```bash
+    conda install -c conda-forge gmsh
+    ```
+
+To open GMSH, just type `gmsh` in the terminal with the `gmsh-env` activated.
+To run a GMSH python file:
+
+1. Make sure that `gmsh-env` is activated
+2. Go to your working directory
+
+```bash
+cd \FullPath
+```
+3. Run the command
+
+```bash 
+python3 my_gmsh_script.py
+```
 ### PyTorch
 Instructions for using PyTorch on the SCC:
 

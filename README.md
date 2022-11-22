@@ -30,13 +30,16 @@ During a rotation with the Lejeune Lab, the first thing you will do is figure ou
 * `ENG ME 521`: Continuum Mechanics 
 * `ENG ME 538`: Introduction to Finite Element Methods and Analysis
 * `ENG ME 580`: Theory of Elasticity
+* `ENG ME 721`:
 * `ENG EC 503`: Introduction to Learning from Data (More advanced) or `CAS CS 542`: Machine Learning (General introduction)
 
+Recommended order: 
 ### Recommended Online Courses and Resources
 * Finite Element Analysis: https://www.coursera.org/learn/finite-element-method
 * Continuum Physics: https://open.umich.edu/find/open-educational-resources/engineering/lectures-continuum-physics
 * Advanced Elasticity: https://imechanica.org/node/725
-* Machine Learning: https://cs229.stanford.edu/
+* Machine Learning: https://cs229.stanford.edu/ or (course)[https://www.coursera.org/specializations/deep-learning?utm_source=gg&utm_medium=sem&utm_campaign=07_Machine_Learning_Stanford_Search-US&utm_content=B2C&campaignid=685340575&adgroupid=32639001781&device=c&keyword=machine%20learning%20techniques&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=606802906474&hide_mobile_promo=&gclid=Cj0KCQiAg_KbBhDLARIsANx7wAxZRh6MDeb8VTJtdWNTyiwTonwTS4TRGD7yiviQRIKmJlVrSai6dwIaAjVfEALw_wcB#courses]
+
 * Deep Learning for Computer Vision: http://cs231n.stanford.edu/
 * Pytorch Tutorials: https://pytorch.org/tutorials/
 * FILL IN HERE

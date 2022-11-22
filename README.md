@@ -30,7 +30,7 @@ During a rotation with the Lejeune Lab, the first thing you will do is figure ou
 * `ENG ME 521`: Continuum Mechanics 
 * `ENG ME 538`: Introduction to Finite Element Methods and Analysis
 * `ENG ME 580`: Theory of Elasticity
-* `ENG EC 503`: Introduction to Learning from Data (More advanced) or CAS CS 542: Machine Learning (General introduction)
+* `ENG EC 503`: Introduction to Learning from Data (More advanced) or `CAS CS 542`: Machine Learning (General introduction)
 
 ### Recommended Online Courses and Resources
 * Finite Element Analysis: https://www.coursera.org/learn/finite-element-method
@@ -52,8 +52,8 @@ Popular packages that we use:
 
 ### FEniCS
 Instructions for using FEniCS on the SCC:
-1. Load FEniCS module using the command: `module load fenics/2019.1.0`
-2. Run python script with prepended command `run_fenics.sh` (e.g. run_fenics.sh python3 my_fenics_script.py)
+1. Load FEniCS module using the command: ```bash module load fenics/2019.1.0 ```bash
+3. Run python script with prepended command `run_fenics.sh` (e.g. run_fenics.sh python3 my_fenics_script.py)
 
 
 Instructions for using FEniCS locally:

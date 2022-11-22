@@ -16,7 +16,7 @@ BU Shared Computing Cluster Access:
 Other Potentially Helpful Resources:
 * BU SCC Online Resource: https://www.bu.edu/tech/support/research/system-usage/ 
 * BU SCC Available Software: https://sccsvc.bu.edu/software/#/
-* BU SCC Source to Install Python Libraries: If you need to install python packages using PIP on SCC follow **Install to a shared location** in [here](https://www.bu.edu/tech/support/research/software-and-programming/common-languages/python/install-packages/).
+* BU SCC Source to Install Python Libraries: If you need to install python packages using PIP on SCC follow **Install to a shared location** [here](https://www.bu.edu/tech/support/research/software-and-programming/common-languages/python/install-packages/).
 * Linux command line cheat sheet: https://cheatography.com/davechild/cheat-sheets/linux-command-line/
 * Anaconda: https://www.anaconda.com/
 * Docker: https://www.docker.com/
@@ -75,7 +75,10 @@ Instructions for using FEniCS on the SCC:
     ```
 Instructions for using FEniCS locally:
 
-FILL IN HERE
+Detailed instructions are provided on [FeniCS website](https://fenicsproject.org/download/archive/).
+
+On Mac/Linux follow **FEniCS on Anaconda**. 
+On Windows, we recommend following **FeniCS on Windows10**, but you can alternatively use Docker version of the FeniCS.
 
 ### GMSH
 Instructions for using GMSH on the SCC:

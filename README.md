@@ -30,10 +30,13 @@ During a rotation with the Lejeune Lab, the first thing you will do is figure ou
 * `ENG ME 521`: Continuum Mechanics 
 * `ENG ME 538`: Introduction to Finite Element Methods and Analysis
 * `ENG ME 580`: Theory of Elasticity
-* `ENG ME 721`:
+* `ENG ME 721`: Applied Mathematics in Mechanics
 * `ENG EC 503`: Introduction to Learning from Data (More advanced) or `CAS CS 542`: Machine Learning (General introduction)
 
-Recommended order: 
+Recommended order 
+First semester:`ENG ME 521`, `ENG ME 538`, `ENG ME 721`
+Second semester: `ENG ME 580`, `ENG EC 503` or `CAS CS 542`
+
 ### Recommended Online Courses and Resources
 * Finite Element Analysis: https://www.coursera.org/learn/finite-element-method
 * Continuum Physics: https://open.umich.edu/find/open-educational-resources/engineering/lectures-continuum-physics

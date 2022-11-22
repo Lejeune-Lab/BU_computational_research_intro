@@ -14,7 +14,9 @@ BU Shared Computing Cluster Access:
 * Alternatively you can ask your Advisor to add you as a temporary member to their Projects
 
 Other Potentially Helpful Resources:
-* BU SCC Online Resource: https://www.bu.edu/tech/support/research/system-usage/
+* BU SCC Online Resource: https://www.bu.edu/tech/support/research/system-usage/ 
+* BU SCC Available Software: https://sccsvc.bu.edu/software/#/
+* BU SCC Source to Install Python Libraries: If you need to install python packages using PIP on SCC follow **Install to a shared location** in [here](https://www.bu.edu/tech/support/research/software-and-programming/common-languages/python/install-packages/).
 * Linux command line cheat sheet: https://cheatography.com/davechild/cheat-sheets/linux-command-line/
 * Anaconda: https://www.anaconda.com/
 * Docker: https://www.docker.com/
@@ -132,8 +134,25 @@ python3 my_gmsh_script.py
 ### PyTorch
 Instructions for using PyTorch on the SCC:
 
-FILL IN HERE
+1. Load PyTorch module using the command: 
+    
+    ```bash 
+    module purge
+    module load pytorch/1.12.1
+    ```
+2. Run python script with prepended command `run_fenics.sh`, for example 
+    
+    ``` bash 
+    python3 my_pytorch_script.py
+    ```
 
 Instructions for using PyTorch locally:
 
-FILL IN HERE
+If you are new to PyTorch, we recommend installing [Anaconda](https://www.anaconda.com/products/distribution) first and install PyTorch by running the following command in an Anaconda terminal:
+
+```bash
+conda install pytorch torchvision torchaudio cpuonly -c pytorch
+```
+You can find detailed instructions for PyTorch installation on [PyTorch website](https://pytorch.org/get-started/locally/).
+
+You can also create a separate environment for PyTorch in Anaconda using the instructions detailed above for installing GMSH locally.

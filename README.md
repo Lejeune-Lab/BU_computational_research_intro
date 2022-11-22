@@ -75,10 +75,10 @@ Instructions for using FEniCS on the SCC:
     ```
 Instructions for using FEniCS locally:
 
-Detailed instructions are provided on [FeniCS website](https://fenicsproject.org/download/archive/).
+Detailed instructions are provided on [FEniCS website](https://fenicsproject.org/download/archive/).
 
 On Mac/Linux follow **FEniCS on Anaconda**. 
-On Windows, we recommend following **FeniCS on Windows10**, but you can alternatively use Docker version of the FeniCS.
+On Windows, we recommend following **FEniCS on Windows10**, but you can alternatively use Docker version of the FEniCS.
 
 ### GMSH
 Instructions for using GMSH on the SCC:

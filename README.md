@@ -94,7 +94,7 @@ Instructions for using GMSH on the SCC:
 
 Instructions for using GMSH locally:
 
-The easiest way to use GMSH locally is to install it using [Anaconda](https://www.anaconda.com/).
+The easiest way to use GMSH locally is to set it up using [Anaconda](https://www.anaconda.com/).
 1. Create a new enviroment for GMSH in anaconda either using the graphical interface (`Environments` --> `Create` on bottom left).
     Alternatively, you can create and environment using the terminal by running the command: 
     

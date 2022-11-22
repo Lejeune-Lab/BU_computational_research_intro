@@ -49,7 +49,6 @@ Second semester: `ENG ME 580`, `ENG EC 503` or `CAS CS 542`
 
 * Deep Learning for Computer Vision: http://cs231n.stanford.edu/
 * Pytorch Tutorials: https://pytorch.org/tutorials/
-* FILL IN HERE
 
 ### Python
 Popular packages that we use:
@@ -58,7 +57,6 @@ Popular packages that we use:
 * scipy
 * sklearn
 * skimage
-* FILL IN HERE
 
 ### FEniCS
 Instructions for using FEniCS on the SCC:

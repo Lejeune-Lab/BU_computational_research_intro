@@ -35,6 +35,7 @@ During a rotation with the Lejeune Lab, the first thing you will do is figure ou
 
 Recommended order 
 First semester:`ENG ME 521`, `ENG ME 538`, `ENG ME 721`
+
 Second semester: `ENG ME 580`, `ENG EC 503` or `CAS CS 542`
 
 ### Recommended Online Courses and Resources

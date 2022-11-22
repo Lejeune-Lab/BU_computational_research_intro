@@ -55,6 +55,7 @@ Instructions for using FEniCS on the SCC:
 1. Load FEniCS module using the command: 
     
     ```bash 
+    module purge
     module load fenics/2019.1.0 
     ```
 2. Run python script with prepended command `run_fenics.sh`, for example 
@@ -69,7 +70,19 @@ FILL IN HERE
 ### GMSH
 Instructions for using GMSH on the SCC:
 
-FILL IN HERE
+1. Load Gmsh and all other necessary modules using the commands: 
+    
+    ```bash 
+    module purge
+    module load openmpi/3.1.4_gnu-8.1
+    module load python3/3.7.9
+    module load gmsh/4.7.1
+    ```
+2. Run python script with prepended command `python3`, for example 
+    
+    ``` bash 
+    python3 my_gmsh_script.py
+    ```
 
 Instructions for using GMSH locally:
 

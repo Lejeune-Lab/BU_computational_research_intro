@@ -59,9 +59,7 @@ Instructions for using FEniCS on the SCC:
 2. Run python script with prepended command `run_fenics.sh`, for example 
     ``` bash 
     run_fenics.sh python3 my_fenics_script.py
-    '''
-
-
+    ```
 Instructions for using FEniCS locally:
 
 FILL IN HERE

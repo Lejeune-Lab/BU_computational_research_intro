@@ -3,7 +3,7 @@
 
 ## General Getting Started
 
-Research Computing Services Tutorials: https://www.bu.edu/tech/about/training/classroom/rcs-tutorials/ -- either attend in person, or complete on your own with provided materials. In particular, the following are highly recommended dpending on prior experience:
+Research Computing Services Tutorials: https://www.bu.edu/tech/about/training/classroom/rcs-tutorials/ -- either attend in person, or complete on your own with provided materials. In particular, the following are highly recommended depending on prior experience:
 * Introduction to Linux
 * Introduction to BU's Shared Computing Cluster
 * Intermediate Usage of the SCC (**most highly recommended**)
